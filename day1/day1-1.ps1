@@ -31,4 +31,3 @@ function main {
 $resultat = main
 
 Write-Output $resultat
-# 1074

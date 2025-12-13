@@ -1,5 +1,6 @@
 # INPUT
 input/*.txt
+*/wrong_answer.txt
 
 # CONFIG
 .vscode/
